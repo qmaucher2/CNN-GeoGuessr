@@ -5,46 +5,6 @@
     <tbody>
         <tr>
             <th>Section 1</th>
-            <th>Disclaimer</th>
-        </tr>
-        <tr>
-            <th>Section 2</th>
-            <th>Overview</th>
-        </tr>
-        <tr>
-            <th>Section 3</th>
-            <th>Technical Details</th>
-        </tr>
-        <tr>
-            <th>Section 4</th>
-            <th>Challenges & Solutions</th>
-        </tr>
-        <tr>
-            <th>Section 5</th>
-            <th>Replicabilty</th>
-        </tr>
-    </tbody>
-</table>
-
-<h2>Disclaimer</h2>
-<p>This project researches the capabilites and limits of Convolutional Neural Networks.
-It is not intended to be used in ranked GeoGuesser matches, or any other way that goes against the terms & conditions
-listed on GeoGuessr. I am not responsible for any complications that may arrive due to the misuse of
-this project.
-</p>
-<h2>Overview</h2>
-<p>This project focuses on the effects of methods <like></like></p>
-
-
-import os
-
-readme_updated_content = """# Open-Street-View Classification with Convolutional Neural Networks
-
-<table>
-<thead>Table of Contents</thead>
-    <tbody>
-        <tr>
-            <th>Section 1</th>
             <th><a href="#disclaimer">Disclaimer</a></th>
         </tr>
         <tr>
